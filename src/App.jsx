@@ -25,8 +25,8 @@ function App() {
         <FeedBacks />
       </div>
       <div className="relative z-0">
-        {/* <Contact />
-        <Stars /> */}
+        <Contact />
+        <Stars />
       </div>
     </BrowserRouter>
   );
